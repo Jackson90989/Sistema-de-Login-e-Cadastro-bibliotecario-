@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/css/main.dfc896bb.css",
+    "main.js": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/js/main.5c7ba422.js",
+    "static/js/453.51daeef2.chunk.js": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/js/453.51daeef2.chunk.js",
+    "static/media/img.jpg": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/media/img.6bb722b3b1befb84f57a.jpg",
+    "index.html": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/index.html",
+    "main.dfc896bb.css.map": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/css/main.dfc896bb.css.map",
+    "main.5c7ba422.js.map": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/js/main.5c7ba422.js.map",
+    "453.51daeef2.chunk.js.map": "/Jackson90989/Sistema-de-Login-e-Cadastro-bibliotecario-.git/static/js/453.51daeef2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc896bb.css",
+    "static/js/main.5c7ba422.js"
+  ]
+}
